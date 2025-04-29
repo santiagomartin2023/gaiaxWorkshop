@@ -6,7 +6,7 @@
     "id": "did:web:raw.githubusercontent.com:santiagomartin2023:gaiaxWorkshop:main",
     "verificationMethod": [
       {
-        "id": "did:web:raw.githubusercontent.com:santiagomartin2023:gaiaxWorkshop:main#{A unique ID for this verification method}",
+        "id": "did:web:raw.githubusercontent.com:santiagomartin2023:gaiaxWorkshop:main#1",
         "type": "JsonWebKey2020",
         "publicKeyJwk": {
           "kty": "RSA",
