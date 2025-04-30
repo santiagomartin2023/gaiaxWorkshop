@@ -11,8 +11,8 @@
         "publicKeyJwk": {
           "kty": "RSA",
           "n": "uopNIAPKs_sRypFQHfMYA5NPhbhBuzqQppPcnrWxzkHANkrZPfvJp4zZhZG_mOtyan0mrOLGUFKI2SNPIjmrtPokEqPSSNwzH0d98nuP03Y_LS4gIpXk5Gj3OKpK6PN851_BPIwXBkq1K20n5yZxwipiLn7CYEs2s3iI1l545Dz1Ekls7UopMbw1MP2cLTYIWNu4TFCA4UvaYlfOM9MSmF6ZteYV9gh3sIQq8PVMtUOAc7-0FzJAmKsHDI0a0UcNTUaGhRYlzrQNxNh6ASq_2R4MNJOdtKQMO_fobPnuYF47rwvEjzabVctXp9RKLEMpTTWUxbFdQ4tV52DPF8IAZQ",
-          "e": "uopNIAPKs_sRypFQHfMYA5NPhbhBuzqQppPcnrWxzkHANkrZPfvJp4zZhZG_mOtyan0mrOLGUFKI2SNPIjmrtPokEqPSSNwzH0d98nuP03Y_LS4gIpXk5Gj3OKpK6PN851_BPIwXBkq1K20n5yZxwipiLn7CYEs2s3iI1l545Dz1Ekls7UopMbw1MP2cLTYIWNu4TFCA4UvaYlfOM9MSmF6ZteYV9gh3sIQq8PVMtUOAc7-0FzJAmKsHDI0a0UcNTUaGhRYlzrQNxNh6ASq_2R4MNJOdtKQMO_fobPnuYF47rwvEjzabVctXp9RKLEMpTTWUxbFdQ4tV52DPF8IAZQ",
-          "alg": "uopNIAPKs_sRypFQHfMYA5NPhbhBuzqQppPcnrWxzkHANkrZPfvJp4zZhZG_mOtyan0mrOLGUFKI2SNPIjmrtPokEqPSSNwzH0d98nuP03Y_LS4gIpXk5Gj3OKpK6PN851_BPIwXBkq1K20n5yZxwipiLn7CYEs2s3iI1l545Dz1Ekls7UopMbw1MP2cLTYIWNu4TFCA4UvaYlfOM9MSmF6ZteYV9gh3sIQq8PVMtUOAc7-0FzJAmKsHDI0a0UcNTUaGhRYlzrQNxNh6ASq_2R4MNJOdtKQMO_fobPnuYF47rwvEjzabVctXp9RKLEMpTTWUxbFdQ4tV52DPF8IAZQ",
+          "e": "AQAB",
+          "alg": "RS256",
           "x5u": "https://raw.githubusercontent.com/santiagomartin2023/gaiaxWorkshop/main/public_key.pem"
         }
       }
